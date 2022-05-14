@@ -1,19 +1,24 @@
 .container {
     display: flex;
     margin-bottom: 26px;
+    justify-content: space-between;
 }
 
 .all {
     margin-left: 13px;
     margin-right: 13px;
-    justify-content: space-between;
+    
+}
+
+.img-name{
+    display: flex;
 }
 
 .name {
 
     color: #333333;
     font-weight: 800;
-    font-size: 16.3076px;
+    font-size: 16px;
 
 
 }
@@ -23,41 +28,28 @@
 
 }
 
-.img1 {
-    padding-left: 5.1px;
+.img {
+    padding-left: 5px;
 }
-.img2 {
-    padding-left: 5.1px;
-}
-.img3 {
-    padding-left: 5.1px;
-}
-.img4 {
-    padding-left: 5.1px;
-}
-.img5 {
-    padding-left: 5.1px;
-    
-}
+
 .ondate {
-    padding-right: 13px;
-    padding-left: 13px;
+    padding:0 13px;
     font-weight: 400;
-    font-size: 12.9387px;
+    font-size: 13px;
     color: #A1AAB7;
 }
 
 .paragraph1 {
     font-style: normal;
     font-weight: 700;
-    font-size: 11.9975px;
+    font-size: 12px;
     color: #333333;
 }
 
 .paraghraph2 {
     font-style: normal;
     font-weight: 400;
-    font-size: 14.2691px;
+    font-size: 14px;
     color: #333333;
 }
 
@@ -70,22 +62,22 @@
     font-weight: 400;
     font-size: 10px;
     color: #A1AAB7;
-    margin-bottom: 8.3px;
+    margin-bottom: 8px;
 
 }
 
 .btn {
-    border: 0.406325px solid #A1AAB7;
-    border-radius: 8.11302px;
-    width: 77.5px;
-    height: 26.38px;
+    border: 0.4px solid #A1AAB7;
+    border-radius: 8px;
+    width: 78px;
+    height: 26px;
     background-color: white;
     font-weight: 600;
-    font-size: 12.1897px;
+    font-size: 12px;
     text-align: center;
     color: #333333;
     margin-bottom:23px;
 }
 .line{ 
-border: 0.509612px solid #A1AAB7;
+border: 0.5px solid #A1AAB7;
 }
